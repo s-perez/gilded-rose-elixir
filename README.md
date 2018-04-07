@@ -1,0 +1,1 @@
+This is my take on the GildedRose refactoring kata, in its elixir version, as described by Emily Bache [here](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)
