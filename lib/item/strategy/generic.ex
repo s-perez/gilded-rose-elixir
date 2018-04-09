@@ -1,4 +1,4 @@
-defmodule Item.Generic do
+defmodule Item.Strategy.Generic do
   import GildedRose.Utils, only: [update_item: 2]
 
   @behaviour Item.Strategy

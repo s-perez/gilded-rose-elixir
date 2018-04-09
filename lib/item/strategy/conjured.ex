@@ -1,4 +1,4 @@
-defmodule Item.Conjured do
+defmodule Item.Strategy.Conjured do
   import GildedRose.Utils, only: [update_item: 2]
 
   @behaviour Item.Strategy
